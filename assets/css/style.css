@@ -428,16 +428,7 @@ html {
   color: #c7beb5;
 }
 
-/* galeria */
-.galeria {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 25rem;
-  background-color: #c7beb5;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr
-}
+
 
 .fotos {
   display: grid;
@@ -706,11 +697,6 @@ html {
 }
 
 @media (min-width: 776px) {
-/* 
-  .secao-horario {
-    display: flex;
-    flex-direction: column;
-  } */
 
   .carrossel {
     width: 200%;
